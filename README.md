@@ -21,7 +21,7 @@ In addition, Python is used to generate dummy data for the purpose of demonstrat
 
 ### Getting Started
 To replicate and explore this project, follow these steps:
-1. Install Tableau: Download and install Tableau from the official website (https://www.tableau.com/) according to your operating system.
+1. Install Tableau: Download and install Tableau Public from the official website (https://www.tableau.com/) according to your operating system.
 2. Install Python: Install Python on your machine from the official Python website (https://www.python.org/).
 3. Clone the Repository: Clone this repository to your local machine using `git clone (https://github.com/meek0307/Sales-Dashboard-Using-Tableau.git)`.
 4. Generate Dummy Data: Run the Python script `dummy_sales_dataset.py` to generate dummy sales data.
