@@ -35,5 +35,5 @@ To replicate and explore this project, follow these steps:
 - Additional Python Libraries: Pandas, random, Datatime, timedelta
 
 #### Developed with ❤️ by Ramneek
-linkedin handle:
-https://www.linkedin.com/in/ramneekkaur03/
+linkedin Profile: https://www.linkedin.com/in/ramneekkaur03/
+Tableau Profile: https://public.tableau.com/app/profile/ramneek.kaur6589
